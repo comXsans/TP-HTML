@@ -1,0 +1,40 @@
+.groupe2
+{
+ width: 100px; 
+ height: 100px;
+border-radius: 50%;
+  }
+  .groupe1
+{
+	background-color: whitesmoke;
+	
+}
+div
+{
+	border-radius: 5%;
+	color: whitesmoke;
+	background-color: lightgray;
+	border: 7px solid black;
+	width: 35%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 5%;
+	padding: 3%;
+	transition: color 0,3s ease; 
+
+}
+.groupe1:hover {
+  width: 45%; /* Augmentez la largeur au survol */
+  height: 45%; /* Augmentez la hauteur au survol */
+  background-color: darkgray; /* Changez la couleur de fond au survol */
+}
+h2,h3
+{
+	color: black;
+}
+
+
+
+
+
+
