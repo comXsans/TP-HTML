@@ -1,12 +1,13 @@
 body
 {
-	background-color: cyan;
+	background-color: white;
 }
 header{
 	border: 2px solid black;
 	height: 200px;
 	width: 60%;
 	margin-bottom: 10px;
+	background-color: black;
 }
 
 section{
