@@ -5,7 +5,7 @@ body
 header{
 	border: 2px solid black;
 	height: 200px;
-	width: 60%;
+	width: 100%;
 	margin-bottom: 10px;
 	background-color: black;
 }
@@ -13,7 +13,7 @@ header{
 section{
 	border: 2px solid black;
 	height: 200px;
-	width: 60%;
+	width: 100%;
 	margin-bottom: 10px;
 	background-color: white;
 }
