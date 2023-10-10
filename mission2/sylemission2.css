@@ -5,15 +5,16 @@ body
 header{
 	border: 2px solid black;
 	height: 200px;
-	width: 100%;
+	width: 90%;
 	margin-bottom: 10px;
 	background-color: black;
+	
 }
 
 section{
 	border: 2px solid black;
 	height: 200px;
-	width: 100%;
+	width: 90%;
 	margin-bottom: 10px;
 	background-color: white;
 }
