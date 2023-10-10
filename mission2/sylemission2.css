@@ -36,4 +36,5 @@ div.i2{
 div.cadre{
 	width: 60%;
 	border: 2px solid black;
+	margin: auto;
 }
